@@ -1,0 +1,240 @@
+09/22 06:09:01 AM | 
+---------------Epoch number: 0---Train accuracy: 10.851666666666667----Test accuracy: 11.35
+09/22 06:10:04 AM | 
+---------------Epoch number: 1---Train accuracy: 10.586666666666666----Test accuracy: 5.87
+09/22 06:11:07 AM | 
+---------------Epoch number: 2---Train accuracy: 11.043333333333333----Test accuracy: 11.35
+09/22 06:12:10 AM | 
+---------------Epoch number: 3---Train accuracy: 11.495----Test accuracy: 9.8
+09/22 06:13:14 AM | 
+---------------Epoch number: 4---Train accuracy: 11.473333333333333----Test accuracy: 11.35
+09/22 06:14:18 AM | 
+---------------Epoch number: 5---Train accuracy: 11.156666666666666----Test accuracy: 10.33
+09/22 06:15:20 AM | 
+---------------Epoch number: 6---Train accuracy: 11.426666666666666----Test accuracy: 10.28
+09/22 06:16:23 AM | 
+---------------Epoch number: 7---Train accuracy: 11.565----Test accuracy: 10.1
+09/22 06:17:23 AM | 
+---------------Epoch number: 8---Train accuracy: 12.278333333333334----Test accuracy: 15.09
+09/22 06:18:24 AM | 
+---------------Epoch number: 9---Train accuracy: 70.785----Test accuracy: 89.05
+09/22 06:19:24 AM | 
+---------------Epoch number: 10---Train accuracy: 90.255----Test accuracy: 91.44
+09/22 06:20:26 AM | 
+---------------Epoch number: 11---Train accuracy: 91.18833333333333----Test accuracy: 90.74
+09/22 06:21:30 AM | 
+---------------Epoch number: 12---Train accuracy: 91.76666666666667----Test accuracy: 92.4
+09/22 06:22:32 AM | 
+---------------Epoch number: 13---Train accuracy: 91.97833333333334----Test accuracy: 92.15
+09/22 06:23:38 AM | 
+---------------Epoch number: 14---Train accuracy: 92.20166666666667----Test accuracy: 92.73
+09/22 06:24:44 AM | 
+---------------Epoch number: 15---Train accuracy: 92.41----Test accuracy: 91.5
+09/22 06:25:49 AM | 
+---------------Epoch number: 16---Train accuracy: 92.55333333333333----Test accuracy: 93.04
+09/22 06:26:52 AM | 
+---------------Epoch number: 17---Train accuracy: 92.585----Test accuracy: 93.08
+09/22 06:27:57 AM | 
+---------------Epoch number: 18---Train accuracy: 92.79333333333334----Test accuracy: 93.32
+09/22 06:29:01 AM | 
+---------------Epoch number: 19---Train accuracy: 93.05833333333334----Test accuracy: 93.39
+09/22 06:30:05 AM | 
+---------------Epoch number: 20---Train accuracy: 93.55----Test accuracy: 93.97
+09/22 06:31:10 AM | 
+---------------Epoch number: 21---Train accuracy: 94.31333333333333----Test accuracy: 94.67
+09/22 06:32:15 AM | 
+---------------Epoch number: 22---Train accuracy: 94.985----Test accuracy: 94.73
+09/22 06:33:20 AM | 
+---------------Epoch number: 23---Train accuracy: 95.33166666666666----Test accuracy: 95.58
+09/22 06:34:24 AM | 
+---------------Epoch number: 24---Train accuracy: 95.725----Test accuracy: 95.45
+09/22 06:35:28 AM | 
+---------------Epoch number: 25---Train accuracy: 95.73333333333333----Test accuracy: 95.82
+09/22 06:36:33 AM | 
+---------------Epoch number: 26---Train accuracy: 96.0----Test accuracy: 95.85
+09/22 06:37:37 AM | 
+---------------Epoch number: 27---Train accuracy: 96.23833333333333----Test accuracy: 96.02
+09/22 06:38:41 AM | 
+---------------Epoch number: 28---Train accuracy: 96.28333333333333----Test accuracy: 96.18
+09/22 06:39:45 AM | 
+---------------Epoch number: 29---Train accuracy: 96.41166666666666----Test accuracy: 95.81
+09/22 06:40:49 AM | 
+---------------Epoch number: 30---Train accuracy: 96.44166666666666----Test accuracy: 96.57
+09/22 06:41:53 AM | 
+---------------Epoch number: 31---Train accuracy: 96.56666666666666----Test accuracy: 96.27
+09/22 06:42:58 AM | 
+---------------Epoch number: 32---Train accuracy: 96.59666666666666----Test accuracy: 96.63
+09/22 06:44:03 AM | 
+---------------Epoch number: 33---Train accuracy: 96.72166666666666----Test accuracy: 96.44
+09/22 06:45:08 AM | 
+---------------Epoch number: 34---Train accuracy: 96.76833333333333----Test accuracy: 96.68
+09/22 06:46:14 AM | 
+---------------Epoch number: 35---Train accuracy: 96.80833333333334----Test accuracy: 96.7
+09/22 06:47:23 AM | 
+---------------Epoch number: 36---Train accuracy: 96.92166666666667----Test accuracy: 96.82
+09/22 06:48:26 AM | 
+---------------Epoch number: 37---Train accuracy: 96.94333333333333----Test accuracy: 96.59
+09/22 06:49:31 AM | 
+---------------Epoch number: 38---Train accuracy: 96.96833333333333----Test accuracy: 96.79
+09/22 06:50:37 AM | 
+---------------Epoch number: 39---Train accuracy: 96.99833333333333----Test accuracy: 96.78
+09/22 06:51:44 AM | 
+---------------Epoch number: 40---Train accuracy: 97.51666666666667----Test accuracy: 97.09
+09/22 06:52:50 AM | 
+---------------Epoch number: 41---Train accuracy: 97.56333333333333----Test accuracy: 97.04
+09/22 06:53:56 AM | 
+---------------Epoch number: 42---Train accuracy: 97.55----Test accuracy: 97.15
+09/22 06:55:01 AM | 
+---------------Epoch number: 43---Train accuracy: 97.61666666666666----Test accuracy: 97.02
+09/22 06:56:06 AM | 
+---------------Epoch number: 44---Train accuracy: 97.59666666666666----Test accuracy: 97.01
+09/22 06:57:11 AM | 
+---------------Epoch number: 45---Train accuracy: 97.56166666666667----Test accuracy: 97.03
+09/22 06:58:17 AM | 
+---------------Epoch number: 46---Train accuracy: 97.59166666666667----Test accuracy: 97.05
+09/22 06:59:22 AM | 
+---------------Epoch number: 47---Train accuracy: 97.61666666666666----Test accuracy: 97.07
+09/22 07:00:26 AM | 
+---------------Epoch number: 48---Train accuracy: 97.585----Test accuracy: 97.15
+09/22 07:01:31 AM | 
+---------------Epoch number: 49---Train accuracy: 97.65----Test accuracy: 97.09
+09/22 07:02:35 AM | 
+---------------Epoch number: 50---Train accuracy: 97.59833333333333----Test accuracy: 97.1
+09/22 07:03:42 AM | 
+---------------Epoch number: 51---Train accuracy: 97.61----Test accuracy: 97.07
+09/22 07:04:48 AM | 
+---------------Epoch number: 52---Train accuracy: 97.65166666666667----Test accuracy: 97.05
+09/22 07:05:53 AM | 
+---------------Epoch number: 53---Train accuracy: 97.63----Test accuracy: 97.16
+09/22 07:06:59 AM | 
+---------------Epoch number: 54---Train accuracy: 97.61333333333333----Test accuracy: 97.05
+09/22 07:08:04 AM | 
+---------------Epoch number: 55---Train accuracy: 97.65----Test accuracy: 97.17
+09/22 07:09:09 AM | 
+---------------Epoch number: 56---Train accuracy: 97.63666666666667----Test accuracy: 97.12
+09/22 07:10:14 AM | 
+---------------Epoch number: 57---Train accuracy: 97.66833333333334----Test accuracy: 96.97
+09/22 07:11:19 AM | 
+---------------Epoch number: 58---Train accuracy: 97.64333333333333----Test accuracy: 97.05
+09/22 07:12:12 AM | 
+---------------Epoch number: 59---Train accuracy: 97.64----Test accuracy: 97.09
+09/22 07:12:43 AM | 
+---------------Epoch number: 60---Train accuracy: 97.74----Test accuracy: 97.1
+09/22 07:13:13 AM | 
+---------------Epoch number: 61---Train accuracy: 97.73333333333333----Test accuracy: 97.06
+09/22 07:13:44 AM | 
+---------------Epoch number: 62---Train accuracy: 97.72833333333334----Test accuracy: 97.13
+09/22 07:14:16 AM | 
+---------------Epoch number: 63---Train accuracy: 97.76666666666667----Test accuracy: 97.08
+09/22 07:14:47 AM | 
+---------------Epoch number: 64---Train accuracy: 97.76666666666667----Test accuracy: 97.08
+09/22 07:15:20 AM | 
+---------------Epoch number: 65---Train accuracy: 97.73666666666666----Test accuracy: 97.09
+09/22 07:15:51 AM | 
+---------------Epoch number: 66---Train accuracy: 97.755----Test accuracy: 97.12
+09/22 07:16:23 AM | 
+---------------Epoch number: 67---Train accuracy: 97.75666666666666----Test accuracy: 97.08
+09/22 07:16:52 AM | 
+---------------Epoch number: 68---Train accuracy: 97.73833333333333----Test accuracy: 97.05
+09/22 07:17:23 AM | 
+---------------Epoch number: 69---Train accuracy: 97.755----Test accuracy: 97.05
+09/22 07:17:55 AM | 
+---------------Epoch number: 70---Train accuracy: 97.76333333333334----Test accuracy: 97.11
+09/22 07:18:25 AM | 
+---------------Epoch number: 71---Train accuracy: 97.735----Test accuracy: 97.11
+09/22 07:18:56 AM | 
+---------------Epoch number: 72---Train accuracy: 97.74333333333334----Test accuracy: 97.08
+09/22 07:19:26 AM | 
+---------------Epoch number: 73---Train accuracy: 97.75166666666667----Test accuracy: 97.08
+09/22 07:19:59 AM | 
+---------------Epoch number: 74---Train accuracy: 97.74666666666667----Test accuracy: 97.09
+09/22 07:20:30 AM | 
+---------------Epoch number: 75---Train accuracy: 97.75166666666667----Test accuracy: 97.11
+09/22 07:21:03 AM | 
+---------------Epoch number: 76---Train accuracy: 97.75166666666667----Test accuracy: 97.11
+09/22 07:21:34 AM | 
+---------------Epoch number: 77---Train accuracy: 97.74333333333334----Test accuracy: 97.11
+09/22 07:22:04 AM | 
+---------------Epoch number: 78---Train accuracy: 97.75333333333333----Test accuracy: 97.13
+09/22 07:22:36 AM | 
+---------------Epoch number: 79---Train accuracy: 97.74833333333333----Test accuracy: 97.1
+09/22 07:23:08 AM | 
+---------------Epoch number: 80---Train accuracy: 97.755----Test accuracy: 97.05
+09/22 07:23:39 AM | 
+---------------Epoch number: 81---Train accuracy: 97.76----Test accuracy: 97.11
+09/22 07:24:13 AM | 
+---------------Epoch number: 82---Train accuracy: 97.73166666666667----Test accuracy: 97.08
+09/22 07:24:48 AM | 
+---------------Epoch number: 83---Train accuracy: 97.75333333333333----Test accuracy: 97.08
+09/22 07:25:22 AM | 
+---------------Epoch number: 84---Train accuracy: 97.76333333333334----Test accuracy: 97.09
+09/22 07:25:54 AM | 
+---------------Epoch number: 85---Train accuracy: 97.74----Test accuracy: 97.1
+09/22 07:26:27 AM | 
+---------------Epoch number: 86---Train accuracy: 97.75666666666666----Test accuracy: 97.07
+09/22 07:27:00 AM | 
+---------------Epoch number: 87---Train accuracy: 97.75666666666666----Test accuracy: 97.11
+09/22 07:27:33 AM | 
+---------------Epoch number: 88---Train accuracy: 97.75833333333334----Test accuracy: 97.08
+09/22 07:28:06 AM | 
+---------------Epoch number: 89---Train accuracy: 97.76166666666667----Test accuracy: 97.11
+09/22 07:28:39 AM | 
+---------------Epoch number: 90---Train accuracy: 97.75833333333334----Test accuracy: 97.08
+09/22 07:29:12 AM | 
+---------------Epoch number: 91---Train accuracy: 97.75166666666667----Test accuracy: 97.1
+09/22 07:29:46 AM | 
+---------------Epoch number: 92---Train accuracy: 97.75666666666666----Test accuracy: 97.09
+09/22 07:30:18 AM | 
+---------------Epoch number: 93---Train accuracy: 97.745----Test accuracy: 97.1
+09/22 07:30:50 AM | 
+---------------Epoch number: 94---Train accuracy: 97.745----Test accuracy: 97.11
+09/22 07:31:23 AM | 
+---------------Epoch number: 95---Train accuracy: 97.75333333333333----Test accuracy: 97.13
+09/22 07:31:55 AM | 
+---------------Epoch number: 96---Train accuracy: 97.74333333333334----Test accuracy: 97.1
+09/22 07:32:27 AM | 
+---------------Epoch number: 97---Train accuracy: 97.75166666666667----Test accuracy: 97.11
+09/22 07:33:00 AM | 
+---------------Epoch number: 98---Train accuracy: 97.77333333333333----Test accuracy: 97.09
+09/22 07:33:32 AM | 
+---------------Epoch number: 99---Train accuracy: 97.76333333333334----Test accuracy: 97.1
+09/22 07:34:03 AM | 
+---------------Epoch number: 100---Train accuracy: 97.755----Test accuracy: 97.09
+09/22 07:34:35 AM | 
+---------------Epoch number: 101---Train accuracy: 97.76666666666667----Test accuracy: 97.1
+09/22 07:35:07 AM | 
+---------------Epoch number: 102---Train accuracy: 97.765----Test accuracy: 97.07
+09/22 07:35:41 AM | 
+---------------Epoch number: 103---Train accuracy: 97.76833333333333----Test accuracy: 97.08
+09/22 07:36:14 AM | 
+---------------Epoch number: 104---Train accuracy: 97.765----Test accuracy: 97.1
+09/22 07:36:48 AM | 
+---------------Epoch number: 105---Train accuracy: 97.75----Test accuracy: 97.08
+09/22 07:37:21 AM | 
+---------------Epoch number: 106---Train accuracy: 97.75666666666666----Test accuracy: 97.09
+09/22 07:37:54 AM | 
+---------------Epoch number: 107---Train accuracy: 97.75333333333333----Test accuracy: 97.09
+09/22 07:38:27 AM | 
+---------------Epoch number: 108---Train accuracy: 97.77166666666666----Test accuracy: 97.12
+09/22 07:38:59 AM | 
+---------------Epoch number: 109---Train accuracy: 97.76333333333334----Test accuracy: 97.1
+09/22 07:39:31 AM | 
+---------------Epoch number: 110---Train accuracy: 97.765----Test accuracy: 97.07
+09/22 07:40:03 AM | 
+---------------Epoch number: 111---Train accuracy: 97.75166666666667----Test accuracy: 97.09
+09/22 07:40:35 AM | 
+---------------Epoch number: 112---Train accuracy: 97.75833333333334----Test accuracy: 97.12
+09/22 07:41:07 AM | 
+---------------Epoch number: 113---Train accuracy: 97.75833333333334----Test accuracy: 97.1
+09/22 07:41:39 AM | 
+---------------Epoch number: 114---Train accuracy: 97.76333333333334----Test accuracy: 97.1
+09/22 07:42:11 AM | 
+---------------Epoch number: 115---Train accuracy: 97.77----Test accuracy: 97.12
+09/22 07:42:43 AM | 
+---------------Epoch number: 116---Train accuracy: 97.78333333333333----Test accuracy: 97.09
+09/22 07:43:15 AM | 
+---------------Epoch number: 117---Train accuracy: 97.75833333333334----Test accuracy: 97.09
+09/22 07:43:47 AM | 
+---------------Epoch number: 118---Train accuracy: 97.78333333333333----Test accuracy: 97.07
+09/22 07:44:19 AM | 
+---------------Epoch number: 119---Train accuracy: 97.77166666666666----Test accuracy: 97.11
